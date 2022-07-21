@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Individual" representedClassName="Individual" syncable="YES" codeGenerationType="class">
+        <attribute name="affiliation" attributeType="String"/>
+        <attribute name="birthdate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="firstName" attributeType="String"/>
+        <attribute name="forceSensitive" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="id" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lastName" attributeType="String"/>
+        <attribute name="profilePicture" optional="YES" attributeType="Binary"/>
+    </entity>
+    <elements>
+        <element name="Individual" positionX="-45" positionY="0" width="128" height="134"/>
+    </elements>
+</model>
